@@ -1,2 +1,20 @@
+.container {
+width: 900;
+display: flex;
+flex-wrap:wrap ;
+background-color: aqua; 
+justify-content: space-between;
+
+}
+
+.box {
+    display: flex;
 
 
+    
+    flex-direction: row;
+justify-content: space-evenly ;
+box-shadow:20px;
+border: black;
+
+}
