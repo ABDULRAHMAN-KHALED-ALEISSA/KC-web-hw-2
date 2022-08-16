@@ -10,11 +10,20 @@ justify-content: space-between;
 .box {
     display: flex;
 
-
-    
     flex-direction: row;
 justify-content: space-evenly ;
-box-shadow:20px;
-border: black;
+background-color: lightseagreen;
+
+box-shadow: 5px 10px;
+box-shadow: 7px 10px black;
+
+
+border: 5px solid red;
+border: 10px dotted blue;
+border: double;
 
 }
+h1 {border: 5px solid red;
+    
+  }
+  
